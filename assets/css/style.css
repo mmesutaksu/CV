@@ -29,5 +29,15 @@
   margin-right: auto;
 }
 .td1 {
+  /* border: 2px solid #f15209; */
   font-size: large;
+}
+/* .td2 {
+   border: 2px solid rgb(118, 202, 0); 
+} */
+/* tr:nth-child(odd) {
+  background-color: #f15209;
+} */
+tr:nth-child(even) {
+  background-color: rgb(118, 202, 0);
 }
